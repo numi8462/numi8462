@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Youngho!
 
-<!--
-**numi8462/numi8462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프론트엔드 개발자 | React, TypeScript, Next.js  
+사용자 중심 개발과 UI/UX를 만드는 걸 좋아합니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=numi8462&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numi8462&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+### ✨ Contact
+📫 Email: yhk8462@naver.com
